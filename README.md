@@ -11,8 +11,8 @@ It fetches HTTP headers, analyzes them, and exports results in **color-coded ter
    
 2. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/http-header-analyzer.git
-   cd http-header-analyzer
+   git clone https://github.com/CyberSecurityUP/http-headers-check
+   cd http-headers-check
    ```
 
 3. **Install dependencies**:
