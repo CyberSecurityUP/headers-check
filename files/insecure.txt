@@ -1,0 +1,129 @@
+Accept-CH: Deprecated Value
+Accept-CH: Ignored Header via Unsafe Scheme
+Accept-CH-Lifetime: Deprecated Header
+Accept-Patch: Potentially Unsafe Header
+Access-Control-Allow-Credentials: Incorrect Values
+Access-Control-Allow-Methods: Insecure Methods
+Access-Control-Allow-Origin: Unsafe Values
+Access-Control-Max-Age: Excessive Value
+Activate-Storage-Access: Incorrect Values
+Activate-Storage-Access: No Valid Directives
+Allow: Insecure Methods
+Cache-Control: No Valid Directives
+Cache-Control: Recommended Values
+Clear-Site-Data: Ignored Header via Unsafe Scheme
+Clear-Site-Data: No Valid Directives
+Content-Digest: No Secure Algorithms
+Content-Digest: Unsafe Algorithms
+Content-Disposition: Potentially Unsafe Header
+Content-DPR: Deprecated Header
+Content-Encoding: No Valid Directives
+Content-Security-Policy: Deprecated Directives
+Content-Security-Policy: Incorrect Values
+Content-Security-Policy: Insecure Schemes
+Content-Security-Policy: IP detected
+Content-Security-Policy: No Valid Directives
+Content-Security-Policy: Too Permissive Sources
+Content-Security-Policy: Unsafe Directive
+Content-Security-Policy: Unsafe Funcionality
+Content-Security-Policy: Unsafe Nonce
+Content-Security-Policy: Unsafe Values
+Content-Security-Policy-Report-Only: Deprecated Directives
+Content-Type: Deprecated Values
+Content-Type: Incorrect Value - Response body
+Content-Type: Non-HTML MIME type
+Content-Type: Unsafe Value
+Critical-CH: Ignored Header via Unsafe Scheme
+Cross-Origin-Embedder-Policy: No Valid Directives
+Cross-Origin-Embedder-Policy: Potentially Unsafe Value
+Cross-Origin-Opener-Policy: No Valid Directives
+Cross-Origin-Opener-Policy: Unsafe value
+Cross-Origin-Resource-Policy: No Valid Directives
+Digest: Deprecated Header
+Document-Isolation-Policy: No Valid Directives
+Document-Policy: No Valid Directives
+Etag: Potentially Unsafe Header
+Expect-CT: Deprecated Header
+Expires: Ignored Header
+Feature-Policy: Deprecated Header
+HTTP: Domain Via Unsafe Scheme
+Keep-Alive: Ignored Header
+Large-Allocation: Deprecated Header
+NEL: Missing Directives
+NEL: No Valid Directives
+No-Vary-Search: No Valid Directives
+Observe-Browsing-Topics: No Valid Directives
+Onion-Location: Potentially Unsafe Header
+Origin-Agent-Cluster: No Valid Directives
+P3P: Deprecated Header
+Permissions-Policy: Deprecated Features
+Permissions-Policy: Incorrect Values
+Permissions-Policy: No Valid Features
+Permissions-Policy: Too Permissive Value
+Pragma: Deprecated Header
+Proxy-Authenticate: No Valid Directives
+Proxy-Authenticate: Unsafe Value
+Public-Key-Pins: Deprecated Header
+Public-Key-Pins-Report-Only: Deprecated Header
+Referrer-Policy: Duplicated Values
+Referrer-Policy: Incorrect Value
+Referrer-Policy: Recommended Values
+Referrer-Policy: Unsafe Value
+Refresh: Potentially Unsafe Header
+Report-To: Deprecated Header
+Reporting-Endpoints: Ignored Value
+Repr-Digest: No Secure Algorithms
+Repr-Digest: Unsafe Algorithms
+Server-Timing: Potentially Unsafe Header
+Set-Cookie: Cookie Prefixes
+Set-Cookie: Insecure Attributes
+Set-Cookie: Insecure Schemes
+Set-Cookie: Missing Attribute
+Set-Login: No Valid Directives
+SourceMap: Unsafe Funcionality
+Speculation-Rules: Potentially Unsafe Header
+Strict-Dynamic: Incorrect Header
+Strict-Transport-Security: Duplicated Values
+Strict-Transport-Security: Ignored Header via Unsafe Scheme
+Strict-Transport-Security: Recommended Values
+Strict-Transport-Security: Required Values
+Supports-Loading-Mode: Ignored Header via Unsafe Scheme
+Supports-Loading-Mode: No Valid Directives
+Surrogate-Control: No Valid Directives
+Timing-Allow-Origin: Potentially Unsafe Header
+Tk: Deprecated Header
+Trailer: Disallowed Directives
+Transfer-Encoding: No Valid Directives
+Vary: Potentially Unsafe Header
+Want-Content-Digest: No Secure Algorithms
+Want-Content-Digest: Unsafe Algorithms
+Want-Digest: Deprecated Header
+Want-Repr-Digest: No Secure Algorithms
+Want-Repr-Digest: Unsafe Algorithms
+Warning: Deprecated Header
+WWW-Authenticate: Unsafe Value
+X-Content-Security-Policy: Deprecated Header
+X-Content-Security-Policy-Report-Only: Deprecated Header
+X-Content-Type-Options: Duplicated Values
+X-Content-Type-Options: Incorrect Value
+X-DNS-Prefetch-Control: Potentially Unsafe Header
+X-Download-Options: Deprecated Header
+X-Frame-Options: Deprecated Values
+X-Frame-Options: Duplicated Values
+X-Frame-Options: Incorrect Values
+X-Pad: Deprecated Header
+X-Permitted-Cross-Domain-Policies: Duplicated Values
+X-Permitted-Cross-Domain-Policies: No Valid Directives
+X-Permitted-Cross-Domain-Policies: Unsafe Value
+X-Pingback: Unsafe Value
+X-Robots-Tag: Unsafe Value
+X-Robots-Tag: No Valid Directives
+X-Runtime: Unsafe Value
+X-SourceMap: Deprecated Header
+X-UA-Compatible: Deprecated Header
+X-UA-Compatible: Incorrect Value - Response body
+X-Webkit-CSP: Deprecated Header
+X-Webkit-CSP-Report-Only: Deprecated Header
+X-XSS-Protection: Deprecated Header
+X-XSS-Protection: Duplicated Values
+X-XSS-Protection: Unsafe Value
